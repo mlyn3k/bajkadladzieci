@@ -1,0 +1,57 @@
+body {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.book {
+    min-width: 700px;
+    max-width: 700px;
+    min-height: 530px;
+    box-shadow: 5px 4px 5px 4px rgb(206, 199, 199);
+}
+.titles {
+    text-shadow: 2px 2px 2px red;
+}
+.newButton {
+    background-color: aliceblue;
+    box-shadow: 4px 4px 4px red;
+    font-size: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    transition-duration: 0.2s;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.newButton:hover {
+    background-color: rgb(212, 176, 176);
+}
+
+.car {
+    height: 234px;
+}
+
+.boy {
+    height: 250px;
+}
+
+.girl {
+    height: 250px;
+}
+
+.city {
+    height: 250px;
+}
+
+.magic {
+    font-family: fantasy;
+    font-size: 25px;
+    text-shadow: 2px 2px 2px rgb(224, 219, 185);
+}
+
+.ourStory {
+    text-align: left;
+    font-size: 13px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
