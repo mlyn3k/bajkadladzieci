@@ -85,7 +85,7 @@ function button5(event) {
     Buduję najbardziej niebezpieczną i stromą zjeżdżalnię świata! Eeeee…. to znaczy, najbardziej niebezpieczną zjeżdżalnię w moim pokoju.<br>
     ${girlName} uśmiechnęła się do brata, wyjęła półmetrową przezroczystą linijkę z szuflady swojego biurka, tym samym, stając się częścią budowlanego projektu swojego pomysłowego braciszka.<br>
     – Dziękuję, dziękuję! Juppii! – dziękował siostrze ${boyName} w locie do swojego pokoju.<br>
-    Zjeżdżalnia miała podpórkę z wieży z klocków. Z drugiej strony przy pomocy plasteliny zamontowana została linijka Igi. <br>
+    Zjeżdżalnia miała podpórkę z wieży z klocków. Z drugiej strony przy pomocy plasteliny zamontowana została linijka siostry. <br>
     Zjeżdżalnia była naprawdę wysoka. Chłopiec użył do jej budowy wszystkich swoich klocków w kolorze żółtym i niebieskim.<br>
     – Ooo tak, to jest najniebezpieczniejsza zjeżdżalnia w moim pokoju!! – komentował dumny z siebie młody konstruktor.<br>
     ${boyName} jednak miał wątpliwości. Plac zabaw powinien być bezpiecznym miejscem. <br>
