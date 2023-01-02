@@ -17,8 +17,8 @@ function button1(event) {
 document.getElementById("start").addEventListener("click", button1);
 
 function button2(event) {
-    boyName = prompt("Imię chłopca", "Janek");
-    boyAge = prompt("Wiek chłopca", "4");
+    boyName = prompt("Imię chłopca", "Krzyś");
+    boyAge = prompt("Wiek chłopca", "5");
     girl1.removeAttribute("hidden");
     girl2.removeAttribute("hidden");
     girl3.removeAttribute("hidden");
@@ -30,7 +30,7 @@ function button2(event) {
 document.getElementById("boy3").addEventListener("click", button2);
 
 function button3(event) {
-    girlName = prompt("Imię dziewczynki", "Zuzia");
+    girlName = prompt("Imię dziewczynki", "Hania");
     city1.removeAttribute("hidden");
     city2.removeAttribute("hidden");
     city3.removeAttribute("hidden");
@@ -42,7 +42,7 @@ function button3(event) {
 document.getElementById("girl3").addEventListener("click", button3);
 
 function button4(event) {
-    city = prompt("Miasto", "Gdańsk");
+    city = prompt("Miasto", "Olsztyn");
     newStory1.removeAttribute("hidden");
     newStory2.removeAttribute("hidden");
     newStory3.removeAttribute("hidden");
