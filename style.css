@@ -14,7 +14,7 @@ body {
 .newButton {
     background-color: aliceblue;
     box-shadow: 4px 4px 4px red;
-    font-size: 15px;
+    font-size: 30px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     transition-duration: 0.2s;
     cursor: pointer;
@@ -50,8 +50,41 @@ body {
 .ourStory {
     text-align: left;
     font-size: 13px;
+    text-indent: 50px;
+    line-height: 2.8;
     margin-top: 100px;
     margin-bottom: 100px;
     margin-right: 20px;
     margin-left: 20px;
 }
+
+
+
+#narrator {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    padding: 5px;
+    border-radius: 10px;
+    background-color: rgba(134, 6, 6, 0.2);
+    overflow: hidden;
+}
+
+
+
+
+.options {
+    display: grid;
+    grid-template-columns: 100px auto;
+    gap: 10px;
+    padding: 10px 0;
+    color: white;
+}
+
+#voice, option {
+    font-size: 0.87rem;
+    color: black;
+}
+
+
+
